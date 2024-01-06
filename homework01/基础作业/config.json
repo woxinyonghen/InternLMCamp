@@ -1,0 +1,36 @@
+{
+  "architectures": [
+    "InternLMForCausalLM"
+  ],
+  "auto_map": {
+    "AutoConfig": "configuration_internlm.InternLMConfig",
+    "AutoModel": "modeling_internlm.InternLMForCausalLM",
+    "AutoModelForCausalLM": "modeling_internlm.InternLMForCausalLM"
+  },
+  "bias": false,
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "hidden_act": "silu",
+  "hidden_size": 5120,
+  "initializer_range": 0.02,
+  "intermediate_size": 13824,
+  "max_position_embeddings": 4096,
+  "model_type": "internlm",
+  "num_attention_heads": 40,
+  "num_hidden_layers": 60,
+  "num_key_value_heads": 40,
+  "pad_token_id": 2,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-06,
+  "rope_scaling": null,
+  "rope_theta": 10000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.33.1",
+  "use_cache": true,
+  "vocab_size": 103168,
+  "rotary": {
+    "base": 10000,
+    "type": "dynamic"
+  }
+}
