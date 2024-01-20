@@ -1,0 +1,2 @@
+01/20 17:46:43 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-physician]: {'accuracy': 51.02040816326531}
+01/20 17:46:43 - OpenCompass - INFO - time elapsed: 16.23s

@@ -1,0 +1,2 @@
+01/20 17:45:35 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-college_physics]: {'accuracy': 5.263157894736842}
+01/20 17:45:35 - OpenCompass - INFO - time elapsed: 38.62s

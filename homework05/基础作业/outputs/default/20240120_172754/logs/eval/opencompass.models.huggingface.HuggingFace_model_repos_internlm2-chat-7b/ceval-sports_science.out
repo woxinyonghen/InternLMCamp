@@ -1,0 +1,2 @@
+01/20 17:46:33 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-sports_science]: {'accuracy': 63.1578947368421}
+01/20 17:46:33 - OpenCompass - INFO - time elapsed: 16.81s

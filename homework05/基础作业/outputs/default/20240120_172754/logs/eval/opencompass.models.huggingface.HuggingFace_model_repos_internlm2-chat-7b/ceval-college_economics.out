@@ -1,0 +1,2 @@
+01/20 17:45:36 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-college_economics]: {'accuracy': 29.09090909090909}
+01/20 17:45:36 - OpenCompass - INFO - time elapsed: 38.53s

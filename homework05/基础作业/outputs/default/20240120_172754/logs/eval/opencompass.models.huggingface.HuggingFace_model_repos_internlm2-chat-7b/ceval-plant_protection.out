@@ -1,0 +1,2 @@
+01/20 17:46:43 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-plant_protection]: {'accuracy': 68.18181818181817}
+01/20 17:46:43 - OpenCompass - INFO - time elapsed: 18.88s

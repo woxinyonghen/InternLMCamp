@@ -1,0 +1,2 @@
+01/20 17:45:35 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-discrete_mathematics]: {'accuracy': 18.75}
+01/20 17:45:35 - OpenCompass - INFO - time elapsed: 38.53s

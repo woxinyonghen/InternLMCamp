@@ -1,0 +1,2 @@
+01/20 17:46:33 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-art_studies]: {'accuracy': 66.66666666666666}
+01/20 17:46:33 - OpenCompass - INFO - time elapsed: 18.29s

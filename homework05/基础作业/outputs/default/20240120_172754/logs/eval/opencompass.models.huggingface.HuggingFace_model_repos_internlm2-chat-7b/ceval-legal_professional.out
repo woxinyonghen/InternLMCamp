@@ -1,0 +1,2 @@
+01/20 17:46:33 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-legal_professional]: {'accuracy': 30.434782608695656}
+01/20 17:46:33 - OpenCompass - INFO - time elapsed: 18.21s

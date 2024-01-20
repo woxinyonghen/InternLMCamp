@@ -1,0 +1,2 @@
+01/20 17:46:33 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-chinese_language_and_literature]: {'accuracy': 47.82608695652174}
+01/20 17:46:33 - OpenCompass - INFO - time elapsed: 20.54s

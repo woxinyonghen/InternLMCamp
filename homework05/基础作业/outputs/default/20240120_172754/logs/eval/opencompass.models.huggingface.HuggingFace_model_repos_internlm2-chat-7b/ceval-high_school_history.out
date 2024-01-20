@@ -1,0 +1,2 @@
+01/20 17:46:43 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-high_school_history]: {'accuracy': 75.0}
+01/20 17:46:43 - OpenCompass - INFO - time elapsed: 19.04s

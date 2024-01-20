@@ -1,0 +1,2 @@
+01/20 17:45:35 - OpenCompass - INFO - Task [opencompass.models.huggingface.HuggingFace_model_repos_internlm2-chat-7b/ceval-metrology_engineer]: {'accuracy': 50.0}
+01/20 17:45:35 - OpenCompass - INFO - time elapsed: 38.42s
